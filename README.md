@@ -1,7 +1,5 @@
 # Tic Tac Toe Board
-
 ## Overview
-
 ### The Tic Tac Toe Board
 
 When building a Tic Tac Toe program, you're going to have to figure out a way to store or represent the game board. Looking at a Tic Tac Toe board, we can identify a few properties.
@@ -98,5 +96,7 @@ row #=> [" ", "X", " "]
 5. Submit your solution with `learn submit`.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ttt-2-board-rb' title='Tic Tac Toe Board'>Tic Tac Toe Board</a> on Learn.co and start learning to code for free.</p>
+
+
 def position_taken?(board, index)
 end
