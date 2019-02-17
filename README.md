@@ -100,3 +100,5 @@ row #=> [" ", "X", " "]
 
 def position_taken?(board, index)
 end
+
+puts board[0]
